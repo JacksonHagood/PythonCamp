@@ -1,4 +1,4 @@
-# game 1
+# game 2
 
 # full text adventure game
 # section 1 consists of guessing a random number
