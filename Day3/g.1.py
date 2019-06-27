@@ -1,4 +1,4 @@
-# game 2
+# game 1
 
 # full text tic tac toe
 # ai is completely random
