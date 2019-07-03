@@ -50,7 +50,7 @@ def full(board):
     for slot in board:
         if slot != ' ':
             count += 1
-    return count == 8
+    return count == 9
 
 
 def win(b, s):
