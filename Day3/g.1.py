@@ -38,7 +38,7 @@ def player():
 def cpu():
     # runs the cpu turn
     while True:
-        slot = random.randint(0,8)
+        slot = random.randint(0, 8)
         if check(filled, slot):
             filled[slot] = 'O'
             break
