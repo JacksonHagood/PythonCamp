@@ -4,4 +4,4 @@ Note: The provided finished files are there for the sensei to follow, but they s
 there is not enough content, go through the extra projects.
 
 This can also be found at https://drive.google.com/open?id=1Bp2PIKFg8tFfYuK7PqhCuPUv5eRBCllb
-For more text based Python games, see Python Text Games at github.com/JacksonHagood/PythonTextGames
+For more text based Python games, see Python Text Games at https://github.com/JacksonHagood/PythonTextGames
